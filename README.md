@@ -1,3 +1,5 @@
+<h3>Utilizado um template pronto disponível no GitHub. Mantive o README original do autor assim como sua licensa.</h3>
+
 <h1>&lt;Table&gt; Responsive</h1>
 
 <p>CSS3 transition, box-shadow, transform properties. Responsive Web Desing & without JS.</p>
